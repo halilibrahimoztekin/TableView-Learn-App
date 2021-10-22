@@ -16,6 +16,7 @@
 		591E5EC927219C43001169B6 /* TableViewLearnAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 591E5EC827219C43001169B6 /* TableViewLearnAppTests.swift */; };
 		591E5ED327219C43001169B6 /* TableViewLearnAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 591E5ED227219C43001169B6 /* TableViewLearnAppUITests.swift */; };
 		591E5ED527219C43001169B6 /* TableViewLearnAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 591E5ED427219C43001169B6 /* TableViewLearnAppUITestsLaunchTests.swift */; };
+		592C74D02722DCE0003D6ED0 /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592C74CF2722DCE0003D6ED0 /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		591E5ECE27219C43001169B6 /* TableViewLearnAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewLearnAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		591E5ED227219C43001169B6 /* TableViewLearnAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewLearnAppUITests.swift; sourceTree = "<group>"; };
 		591E5ED427219C43001169B6 /* TableViewLearnAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewLearnAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		592C74CF2722DCE0003D6ED0 /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				591E5EBA27219C42001169B6 /* Assets.xcassets */,
 				591E5EBC27219C42001169B6 /* LaunchScreen.storyboard */,
 				591E5EBF27219C42001169B6 /* Info.plist */,
+				592C74CF2722DCE0003D6ED0 /* imageViewController.swift */,
 			);
 			path = TableViewLearnApp;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				591E5EB627219C41001169B6 /* ViewController.swift in Sources */,
 				591E5EB227219C41001169B6 /* AppDelegate.swift in Sources */,
+				592C74D02722DCE0003D6ED0 /* imageViewController.swift in Sources */,
 				591E5EB427219C41001169B6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
